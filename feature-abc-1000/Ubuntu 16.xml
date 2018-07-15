@@ -1,0 +1,10 @@
+<POLICY>
+    <TITLE>Ubuntu Linux 16</TITLE>
+<CONTROL>
+<ID>100</ID>
+<ID>200</ID>
+<ID>300</ID>
+<ID>400</ID>
+<ID>500</ID>
+</CONTROL>
+</POLICY>
